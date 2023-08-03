@@ -4,3 +4,4 @@ int32 range
 int32 seq
 float64 rss
 float64 errorEstimation
+float64 angle
